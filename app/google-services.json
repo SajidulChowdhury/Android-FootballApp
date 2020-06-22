@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529408403281",
+    "firebase_url": "https://soccer-app-1c78e.firebaseio.com",
+    "project_id": "soccer-app-1c78e",
+    "storage_bucket": "soccer-app-1c78e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529408403281:android:2fca37e64ffac966ca5570",
+        "android_client_info": {
+          "package_name": "com.example.mehdi.footballapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529408403281-vqasqojtops0k4b2bfj5hnacrunpengk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdi2WOWeF0HuvFOx9wpD07SxouwP9Z5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529408403281-vqasqojtops0k4b2bfj5hnacrunpengk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
